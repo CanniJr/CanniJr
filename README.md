@@ -1,7 +1,6 @@
 <h1 align="center">Hi there 👋, I'm Canni!</h1>
 <h3 align="center">Full - Stack Web developer Based in NY</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cannijr&label=Profile%20views&color=0e75b6&style=flat" alt="cannijr" /> </p>
 
 - 🌱 I’m currently learning **Python, Java**
 
