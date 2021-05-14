@@ -6,6 +6,9 @@
 
 - 👨‍💻 All of my projects are available at [https://www.cannigialaluw.dev](https://www.cannigialaluw.dev)
 
+- I'm working on PickMealUp. An app that is inspired by Yelp that allows you to search for local restaurants and order take out. 
+  Details: https://github.com/CanniJr/PickMealUp
+
 - 📝 I regularly write articles on [https://cannigialaluw.medium.com](https://cannigialaluw.medium.com)
 
 - 💬 Ask me about **React, Next.js, JavaScript**
