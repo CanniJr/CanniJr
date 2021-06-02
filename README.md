@@ -2,7 +2,7 @@
 <h3 align="center">Full - Stack Web developer Based in NY</h3>
 
 
-- 🌱 I’m currently learning **Python, Java**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://www.cannigialaluw.dev](https://www.cannigialaluw.dev)
 
@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://cannigialaluw.medium.com](https://cannigialaluw.medium.com)
 
-- 💬 Ask me about **React, Next.js, JavaScript**
+- 💬 Ask me about **React, React Native, Next.js, JavaScript**
 
 - 📫 How to reach me **cannigialaluw@gmail.com**
 
