@@ -1,13 +1,13 @@
 <h1 align="center">Hi there 👋, I'm Canni!</h1>
-<h3 align="center">Full - Stack Web developer Based in NY</h3>
+<h3 align="center">Full - Stack Web developer</h3>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://www.cannigialaluw.dev](https://www.cannigialaluw.dev)
 
-- I'm working on PickMealUp. An app that is inspired by Yelp that allows you to search for local restaurants and order take out. 
-  Details: https://github.com/CanniJr/PickMealUp
+- I'm working on Travgenda. A web app that allows users to record places they have been to, rate, and make reviews / comment about the place. 
+  Details: https://github.com/CanniJr/travgenda
 
 - 📝 I regularly write articles on [https://cannigialaluw.medium.com](https://cannigialaluw.medium.com)
 
@@ -17,7 +17,7 @@
 
 - 📄 Here is my education and work experience on paper [https://drive.google.com/file/d/1nPuOkJmPZiJhR3gRbl7FEXzZopavQ9t8/view?usp=sharing](https://drive.google.com/file/d/1nPuOkJmPZiJhR3gRbl7FEXzZopavQ9t8/view?usp=sharing)
 
-- ⚡ Fun fact **I love Games and Anime**
+- ⚡ Fun fact **I love Games and Traveling**
 
 
 <h3 align="left">Connect with me:</h3>
