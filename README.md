@@ -2,14 +2,14 @@
 <h3 align="center">Front End developer</h3>
 
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently enhancing my **TypeScript** comprehension for React specifically.
 
 - 👨‍💻 All of my projects are available at [https://www.cannigialaluw.dev](https://www.cannigialaluw.dev)
 
 - I'm working on Travgenda. A web app that allows users to record places they have been to, rate, and make reviews / comment about the place. 
   Details: https://github.com/CanniJr/travgenda
 
-- 📝 I regularly write articles on [https://cannigialaluw.medium.com](https://cannigialaluw.medium.com)
+- 📝 [https://cannigialaluw.medium.com](https://cannigialaluw.medium.com)
 
 - 💬 Ask me about **React, React Native, Next.js, JavaScript, TypeScript**
 
