@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Canni!</h1>
-<h3 align="center">Full - Stack Web developer</h3>
+<h3 align="center">Front End developer</h3>
 
 
 - 🌱 I’m currently learning **Java**
