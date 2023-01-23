@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently enhancing my **TypeScript** comprehension for React specifically.
 
+- In Week 1 of CS50 Computer Science from Harvard https://cs50.harvard.edu/x/2023 (Started January 17 2023)
+
 - 👨‍💻 All of my projects are available at [https://www.cannigialaluw.dev](https://www.cannigialaluw.dev)
 
 - I'm working on Travgenda. A web app that allows users to record places they have been to, rate, and make reviews / comment about the place. 
