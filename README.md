@@ -2,9 +2,9 @@
 <h3 align="center">Front End developer</h3>
 
 
-- 🌱 I’m currently enhancing my **TypeScript** comprehension for React specifically.
+- 🌱 I’m currently improving my **TypeScript** comprehension for React specifically.
 
-- In Week 1 of CS50 Computer Science from Harvard https://cs50.harvard.edu/x/2023 (Started January 17 2023)
+- In Week 2 of CS50 Computer Science from Harvard https://cs50.harvard.edu/x/2023 (Started January 17 2023)
 
 - 👨‍💻 All of my projects are available at [https://www.cannigialaluw.dev](https://www.cannigialaluw.dev)
 
@@ -13,7 +13,7 @@
 
 - 📝 [https://cannigialaluw.medium.com](https://cannigialaluw.medium.com)
 
-- 💬 Ask me about **React, React Native, Next.js, JavaScript, TypeScript**
+- 💬 Ask me about **React, JavaScript, TypeScript**
 
 - 📫 How to reach me **cannigialaluw@gmail.com**
 
