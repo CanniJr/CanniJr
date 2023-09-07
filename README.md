@@ -2,24 +2,16 @@
 <h3 align="center">Front End developer</h3>
 
 
-- 🌱 I’m currently improving my **TypeScript** comprehension for React specifically.
-
-- In Week 2 of CS50 Computer Science from Harvard https://cs50.harvard.edu/x/2023 (Started January 17 2023)
-
 - 👨‍💻 All of my projects are available at [https://www.cannigialaluw.dev](https://www.cannigialaluw.dev)
 
-- I'm working on Travgenda. A web app that allows users to record places they have been to, rate, and make reviews / comment about the place. 
-  Details: https://github.com/CanniJr/travgenda
-
+- If I'm not doing any coding, I love to head to nature for hikes, run, or paddleboard / kayak.
+  
 - 📝 [https://cannigialaluw.medium.com](https://cannigialaluw.medium.com)
 
 - 💬 Ask me about **React, JavaScript, TypeScript**
 
 - 📫 How to reach me **cannigialaluw@gmail.com**
 
-- 📄 Here is my education and work experience on paper [https://drive.google.com/file/d/1nPuOkJmPZiJhR3gRbl7FEXzZopavQ9t8/view?usp=sharing](https://drive.google.com/file/d/1nPuOkJmPZiJhR3gRbl7FEXzZopavQ9t8/view?usp=sharing)
-
-- ⚡ Fun fact **I love Games and Traveling**
 
 
 <h3 align="left">Connect with me:</h3>
